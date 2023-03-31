@@ -1,6 +1,6 @@
 # Roadmap---to---Data-Science
 "Roadmap to Data Science" GitHub repository offers a detailed guide to becoming a data scientist through free online resources. Includes a step-by-step roadmap and free projects for hands-on practice. Join the community and start your journey today!
-Welcome to the Roadmap---to---Data-Science wiki!🤖
+# Welcome to the Roadmap---to---Data-Science wiki!🤖
 
 All in one place, the best resources to learn Data Science with comprehensive and detailed roadmaps. Data Science is a vast field and it is very difficult to find the best resources to learn it. This repository is an attempt to solve this problem. It contains the best resources to learn Data Science with comprehensive and detailed roadmaps.
 
@@ -10,21 +10,21 @@ It is a continuously evolving repository and I will keep adding more resources t
 
 I will divide the resources into different levels of learning and will also provide the best resources to learn each topic. The levels of learning are:
 
-Python
+* Python
 
-Frameworks
+* Frameworks
 
-Maths
+* Maths
 
-Data visualisation & Analysis
+* Data visualisation & Analysis
 
-SQL
+* SQL
 
-Machine learning
+* Machine learning
 
-Deep learning
+* Deep learning
 
-PYTHON 🚀
+## PYTHON 🚀
 
 Basic python :
 
