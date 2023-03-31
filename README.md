@@ -28,7 +28,7 @@ I will divide the resources into different levels of learning and will also prov
 
 Basic python :
 
-Durga sir - https://youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu
+Durga sir - [ Basic python ](https://youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu)
 
 Learning Tip 1 💁:
 
