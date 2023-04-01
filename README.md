@@ -24,9 +24,9 @@ I will divide the resources into different levels of learning and will also prov
 
 * Deep learning
 
-## PYTHON 🚀
+# PYTHON 🚀
 
-Basic python :
+## Basic python :
 
 Durga sir - [ Basic python ](https://youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu)
 
@@ -34,11 +34,11 @@ Learning Tip 1 💁:
 
 If you're are a beginnner and not able to answer interview questions, it's totally ok, you can look upto the solutions and solve similar types of problems on your own to practice those types of questions. You don't need to learn every concept, if you're not able to understand it, just skip it and move on to the next topic and review next day or try to get help from communities such as discord communities.
 
-Intermediate python :
+## Intermediate python :
 
 Corey Schafer - [Intermediate python](https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
-Advanced python : 🖥️
+## Advanced python : 🖥️
 
 Durga sir - [Advanced python](https://youtube.com/playlist?list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)
 
@@ -46,19 +46,19 @@ Core Software Engineering Principle - [Robust Python](https://www.amazon.in/Robu
 
 Data Structures and Algorithms -  [DSA by freecodecamp](https://youtu.be/pkYVOmU3MgA)
 
-Interview Tip 1 💁:
+### Interview Tip 1 💁:
 
 While answering questions, try to explain in such a way that you're building your solution from base, if you know the answer, start with explaining how you reached to that answer, don't tell your answer, explain your thought process. Interviews wants to check your problem solving skills. Even if you give wrong answer but your thought process is correct, interviewer might be impressed.
 
-Projects :
+### Projects :
 
 * [25 projects by freecodecamp](https://www.freecodecamp.org/news/python-projects-for-beginners/)
 
-Learning Tip 2 💁:
+### Learning Tip 2 💁:
 
 If you're a beginner and learning python, it will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it.
 
-Frameworks 📚
+# Frameworks 📚
 
 According to Harvard business School, Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
 
