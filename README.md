@@ -36,15 +36,15 @@ If you're are a beginnner and not able to answer interview questions, it's total
 
 Intermediate python :
 
-Corey Schafer - Intermediate python
+Corey Schafer - [Intermediate python](https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 Advanced python : 🖥️
 
-Durga sir - Advanced python
+Durga sir - [Advanced python](https://youtube.com/playlist?list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)
 
-Core Software Engineering Principle - Robust Python & Design Patterns
+Core Software Engineering Principle - [Robust Python](https://www.amazon.in/Robust-Python-Write-Clean-Maintainable/dp/1098100662) & [Design Patterns](https://google.github.io/styleguide/pyguide.html)
 
-Data Structures and Algorithms - DSA by freecodecamp
+Data Structures and Algorithms -  [DSA by freecodecamp](https://youtu.be/pkYVOmU3MgA)
 
 Interview Tip 1 💁:
 
@@ -52,7 +52,8 @@ While answering questions, try to explain in such a way that you're building you
 
 Projects :
 
-25 projects by freecodecamp
+* [25 projects by freecodecamp](https://www.freecodecamp.org/news/python-projects-for-beginners/)
+
 Learning Tip 2 💁:
 
 If you're a beginner and learning python, it will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it.
