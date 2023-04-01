@@ -30,7 +30,7 @@ I will divide the resources into different levels of learning and will also prov
 
 Durga sir - [ Basic python ](https://youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu)
 
-Learning Tip 1 💁:
+## Learning Tip 1 💁:
 
 If you're are a beginnner and not able to answer interview questions, it's totally ok, you can look upto the solutions and solve similar types of problems on your own to practice those types of questions. You don't need to learn every concept, if you're not able to understand it, just skip it and move on to the next topic and review next day or try to get help from communities such as discord communities.
 
