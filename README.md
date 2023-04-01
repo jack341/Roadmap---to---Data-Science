@@ -85,115 +85,133 @@ Corey Schafer - [python with Matplotlib](https://youtube.com/playlist?list=PL-os
 
 ----------------------------------------------------
 
-Maths & Statistics 📝
+# Maths & Statistics 📝
 
-Linear Algebra :
+### Linear Algebra :
 
-Jon krohn - complete linear algebra for ML
+Jon krohn - [complete linear algebra for ML](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 
-Calculus :
+### Calculus :
 
-free code camp -complete calculus
+free code camp -[complete calculus ](https://youtu.be/HfACrKJ_Y2w)
 
-statistics & probability :
+### statistics & probability :
 
-great learning - complete stat & prob
+great learning - [complete stat & prob ](https://youtu.be/Vfo5le26IhY)
 
-Basics of Information Theory : Information theory by d2l.ai
+### Basics of Information Theory : [Information theory by d2l.ai](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/information-theory.html)
 
-Learning Tip 4 💁:
+### Learning Tip 4 💁:
+ Learning frameworks is not a big deal, but the way you use frameworks to analyze data, visualize data and solve problems is what matters. So, I suggest to understand the CRUX of data analysis and data visualization and use the frameworks to build your solution. If you don't know the actual CRUX of data visualization, analysis, then there is no point in learning frameworks. and If you don't know how to work with data, then there is no point in learning ML.
 
-Learning frameworks is not a big deal, but the way you use frameworks to analyze data, visualize data and solve problems is what matters. So, I suggest to understand the CRUX of data analysis and data visualization and use the frameworks to build your solution. If you don't know the actual CRUX of data visualization, analysis, then there is no point in learning frameworks. and If you don't know how to work with data, then there is no point in learning ML.
+#### Interview prep :
 
-Interview prep :
+* linear algebra - [interview questions for linear algebra ](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)
 
-linear algebra - interview questions for linear algebra
+* statistics & probability  - [WEB 1](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271) , [WEB 2](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street) , [WEB 3 ](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md) , [WEB 4 ](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425)
 
-statistics & probability - WEB 1 , WEB 2 , WEB 3 , WEB 4
+----------------------------------------------------
 
-Data visualisation & Analysis
+# Data visualisation & Analysis 
 
-Data Analysis with python -
+Data Analysis with python - 
 
-data analysis by free code camp
+* [data analysis by free code camp](https://youtu.be/GPVsHOlRBBI)
 
-data analysis with python Book
+* [data analysis with python Book](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) 
 
-Head first data analysis
+* [Head first data analysis ](https://learning.oreilly.com/library/view/head-first-data/9780596806224/)
 
-Data visualisation with python
+Data visualisation with python 
 
-data visualisation course by great learning
+*  [data visualisation course by great learning](https://www.mygreatlearning.com/academy/courses/8212360/10900#?utm_source=share_with_friends&gl_source=share_with_friends)
 
-Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures
+* [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/)
 
-SQL 📊
+---------------------------------------------
 
-Edureka complete SQL course
+# SQL 📊
 
-SQL for data analysis
 
-Practising SQL
+* [Edureka complete SQL course ](https://www.youtube.com/live/q_JsgpiuY98?feature=share)
 
-SQL cookbook
+* [SQL for data analysis ](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/)
 
-Datalemur
+### Practising SQL 
 
-Machine learning
+* [SQL cookbook](https://learning.oreilly.com/library/view/sql-cookbook/0596009763/)
 
-Beginner course - ML beginner course by freecodecamp
+* [Datalemur](https://datalemur.com/)
 
-Advanced Machine learning - Columbia university ml advanced ( its actually not available for now may be in future It will be available , lets see if its still unavailable I will change the course )
+-----------------------------------------------
 
-For projects :
+# Machine learning 
 
-see , projects for ml there are tons of hand - on projects soo just google them and have fun!! doing them .
-Deep learning
 
-Deep learning - complete deep learning course by great learning
+* Beginner course  - [ML  beginner course by freecodecamp](https://youtu.be/NWONeJKn6kc)
 
-Deep Learning books - Deep learning book , Deep learning with python , Deep learning for coders with fastai and PyTorch
+* Advanced Machine learning - [Columbia university ml advanced ](https://www.edx.org/course/machine-learning-course-v1columbiaxcsmm102x1t2021?utm_campaign=social-sharing-course-page&utm_medium=social&utm_source=email) ( its actually not available for now may be in future It will be available , lets see if its still unavailable I will change the course ) 
 
-Computer Vision - Stanford Computer Vision
+#### For projects :
 
-Machine Learning Operations - MadewithML
 
-Data science projects 📈
+* see , projects for ml there are tons of hand - on projects soo just google them and have fun!! doing them .
 
-Before starting with any project, I would suggest you to go through this video, which will help you to understand the process of building a data science project which can help you to land a job.
 
-We will be publishing a detailed blog and a video which walks you through a procedure to finding and building impactful data science project. It will be out soon, till then we suggest you to go through the following resources for inspiration:-
+# Deep learning 
 
-Data science project ideas
 
-Zen files
+* Deep learning - [complete deep learning course by great learning ](https://www.mygreatlearning.com/academy/courses/8212360/12395#?utm_source=share_with_friends&gl_source=share_with_friends)
 
-Taking part in competitions is also a great way to learn and build your portfolio, you can check out the following platforms for competitions:-
+* Deep Learning books - [Deep learning book ](https://www.deeplearningbook.org/) , [Deep learning with python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/) , [Deep learning for coders with fastai and PyTorch ](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/)
 
-DrivenData
-Kaggle
-Analytics Vidhya
-Zindi
-Guide to data science interviews :
+* Computer Vision - [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
+
+* Machine Learning Operations - [MadewithML](https://madewithml.com/courses/mlops/)
+
+----------------------------------------------
+
+### Data science projects 📈
+
+ Before starting with any project, I would suggest you to go through [this video](https://youtu.be/c810QTD4XB8), which will help you to understand the process of building a data science project which can help you to land a job.
+
+ We will be publishing a detailed blog and a video which walks you through a procedure to finding and building impactful data science project. It will be out soon, till then we suggest you to go through the following resources for inspiration:-
+
+* [Data science project ideas ](https://github.com/veb-101/Data-Science-Projects)
+
+* [Zen files](https://github.com/zenml-io/zenfiles)
+
+ Taking part in competitions is also a great way to learn and build your portfolio, you can check out the following platforms for competitions:-
+
+* DrivenData
+* Kaggle
+* Analytics Vidhya
+* Zindi
+
+### Guide to data science interviews :
 
 We will be publishing Interviews guide for every topic, but till then you can go through the following resources:-
 
-Machine learning Interview questions
+* [Machine learning Interview questions](https://github.com/khangich/machine-learning-interview)
 
-Ace the Data Science Interview
+* [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
 
-[Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI]
+* [[Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI]](https://arxiv.org/pdf/2201.00650.pdf)
 
-Eugene Yan's Guides
+* [Eugene Yan's Guides](https://eugeneyan.com/)
 
-Machine Learning System Deisng
+* [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
 
-Data Scientist Interviews
+* [Data Scientist Interviews](https://applyingml.com/)
 
-Guides by Applying ML
+* [Guides by Applying ML](https://applyingml.com/resources/)
 
-Upcoming Topics 📚:
 
-This repository is a work in progress, we will be adding more topics in the future . so until then have fun through learning !!
+## Upcoming Topics 📚:
 
-Data science is a good option to choose and work hard for like months so that u will learn all in deatail things in it and u need to also learn additionally how to attend and get hired in interview for a good paying job . Hope the total information in the repository helped you . Thank you ; Mahendra.M
+This repository is a work in progress, we will be adding more topics in the future . so until then have fun through learning !! 
+
+---------------------------------------------
+
+### Data science is a good option to choose and work hard for like months so that u will learn all in deatail things in it and u need to also learn additionally how to attend and get hired in interview for a good paying job . Hope the total information in the repository helped you . Thank you ; Mahendra.M
+
