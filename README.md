@@ -60,29 +60,30 @@ If you're a beginner and learning python, it will require time to reiterate seve
 
 # Frameworks 📚
 
-According to Harvard business School, Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
+According to [Harvard business School](https://online.hbs.edu/blog/post/data-science-skills), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
 
-Numpy :
+### Numpy :
 
-python Numpy for your grand ma - Numpy with python
+python Numpy for your grand ma - [Numpy with python](https://www.udemy.com/share/102o0I3@8d-l1wSytIqV5b7HfzYznDk-s7rAT0bfTvdPA8Z6PRIx-G6wuZr_leZ5l7hErpEiZg==/)
 
-Pandas :
+### Pandas :
 
-Corey Schafer - pandas with python
+Corey Schafer  - [pandas with python](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
-Matplotlib :
+### Matplotlib :
 
-Corey Schafer - python with Matplotlib
+Corey Schafer - [python with Matplotlib](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
-Learning Tip 3 💁:
+### Learning Tip 3 💁:
+ Data structures and algorithms is becoming one of the important topics in data science interview as well in giant companies, so it's important to learn it. Not only from the perspective of interviews, learning it and solving problems using dsa makes your problem solving skill and criticial thinking much more better than before and you will be having several tools in your toolbox to solve any problem. So I suggest to learn a particular topic and solve several questions on it, we will soon be adding several problems on this page to practice for data science.
 
-Data structures and algorithms is becoming one of the important topics in data science interview as well in giant companies, so it's important to learn it. Not only from the perspective of interviews, learning it and solving problems using dsa makes your problem solving skill and criticial thinking much more better than before and you will be having several tools in your toolbox to solve any problem. So I suggest to learn a particular topic and solve several questions on it, we will soon be adding several problems on this page to practice for data science.
+### Projects : 
 
-Projects :
+* [geeksforgeeks](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&source=google&medium=cpc&device=c&keyword=geeks%20for%20geek&matchtype=b&campaignid=19552155281&adgroup=145127760237&gclid=CjwKCAjw5pShBhB_EiwAvmnNV2HjjAMYJbF5nv2UwmZ8NoFBpPLRpsxb82Dgm4hsydpz1kmcd60SaxoC69IQAvD_BwE)
 
-geeksforgeeks
+* [Kaggle](https://www.kaggle.com/)
 
-Kaggle
+----------------------------------------------------
 
 Maths & Statistics 📝
 
