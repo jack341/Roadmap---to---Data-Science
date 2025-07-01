@@ -93,7 +93,7 @@ Jon krohn - [complete linear algebra for ML](https://youtube.com/playlist?list=P
 
 ### Calculus :
 
-free code camp -[complete calculus ](https://youtu.be/HfACrKJ_Y2w)
+Jon krohn -[complete calculus ](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
 
 ### statistics & probability :
 
